@@ -1,0 +1,38 @@
+baseurl = "https://ihmc-p.web.app/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Immaculate Heart of Mary College - Parañaque"
+theme = "dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Immaculate Heart of Mary College - Parañaque"
+  # description = ""
+  avatar = "/img/avatar.png"
+  motto = "Motto"
+  
+  email = "rafael_delacruz1992@yahoo.com"
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404 = true

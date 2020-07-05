@@ -1,0 +1,23 @@
+{
+  "name": "ihmc-p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "dev": "npm run webpack -- --mode development --watch",
+    "build": "npm run webpack -- --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leafarafael/ihmc-p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leafarafael/ihmc-p/issues"
+  },
+  "homepage": "https://github.com/leafarafael/ihmc-p#readme"
+}
