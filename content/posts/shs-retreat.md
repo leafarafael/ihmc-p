@@ -4,8 +4,8 @@ date: 2020-06-29T18:48:22+04:00
 lastmod: 2020-06-29T18:48:22+04:00
 author: Author Name
 cover: /img/cover.jpg
-categories: ["category1"]
-tags: ["tag1", "tag2"]
+categories: ["Announcement"]
+tags: ["HR"]
 # showcase: true
 draft: true
 ---
