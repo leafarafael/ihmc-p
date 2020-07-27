@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>tag1</title>
-      <link>https://ihmc-p.web.app/tags/tag1/</link>
+      <title>HR</title>
+      <link>https://ihmc-p.web.app/tags/hr/</link>
       <pubDate>Sun, 28 Jun 2020 20:06:14 +0400</pubDate>
       
-      <guid>https://ihmc-p.web.app/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag2</title>
-      <link>https://ihmc-p.web.app/tags/tag2/</link>
-      <pubDate>Sun, 28 Jun 2020 20:06:14 +0400</pubDate>
-      
-      <guid>https://ihmc-p.web.app/tags/tag2/</guid>
+      <guid>https://ihmc-p.web.app/tags/hr/</guid>
       <description></description>
     </item>
     

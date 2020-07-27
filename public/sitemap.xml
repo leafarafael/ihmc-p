@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ihmc-p.web.app/categories/announcement/</loc>
+    <lastmod>2020-06-28T20:06:14+04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ihmc-p.web.app/categories/</loc>
     <lastmod>2020-06-28T20:06:14+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihmc-p.web.app/categories/category1/</loc>
-    <lastmod>2020-06-28T20:06:14+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ihmc-p.web.app/</loc>
+    <loc>https://ihmc-p.web.app/posts/my-second-post/</loc>
     <lastmod>2020-06-28T20:06:14+04:00</lastmod>
   </url>
   
@@ -23,22 +23,27 @@
   </url>
   
   <url>
+    <loc>https://ihmc-p.web.app/tags/hr/</loc>
+    <lastmod>2020-06-28T20:06:14+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihmc-p.web.app/</loc>
+    <lastmod>2020-06-28T20:06:14+04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ihmc-p.web.app/posts/</loc>
     <lastmod>2020-06-28T20:06:14+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ihmc-p.web.app/tags/tag1/</loc>
-    <lastmod>2020-06-28T20:06:14+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ihmc-p.web.app/tags/tag2/</loc>
-    <lastmod>2020-06-28T20:06:14+04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ihmc-p.web.app/tags/</loc>
+    <lastmod>2020-06-28T20:06:14+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihmc-p.web.app/posts/weekly-report/</loc>
     <lastmod>2020-06-28T20:06:14+04:00</lastmod>
   </url>
   

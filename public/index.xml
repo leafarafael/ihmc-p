@@ -12,11 +12,29 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Deadline of Submission</title>
+      <link>https://ihmc-p.web.app/posts/my-second-post/</link>
+      <pubDate>Sun, 28 Jun 2020 20:06:14 +0400</pubDate>
+      
+      <guid>https://ihmc-p.web.app/posts/my-second-post/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Faculty Meeting</title>
       <link>https://ihmc-p.web.app/posts/my-first-post/</link>
       <pubDate>Sun, 28 Jun 2020 20:06:14 +0400</pubDate>
       
       <guid>https://ihmc-p.web.app/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Weekly Report</title>
+      <link>https://ihmc-p.web.app/posts/weekly-report/</link>
+      <pubDate>Sun, 28 Jun 2020 20:06:14 +0400</pubDate>
+      
+      <guid>https://ihmc-p.web.app/posts/weekly-report/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
